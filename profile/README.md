@@ -20,7 +20,7 @@
 
 Follow us on [Twitter](https://x.com/OpenGradient)
 
-Participate in our [tech talks on Discord](https://discord.gg/mUCsTvkJ48)
+Join our [Discord](https://discord.gg/axammqTRDz)
 
 Read our [blogs](https://opengradient.ai/blog)
 
