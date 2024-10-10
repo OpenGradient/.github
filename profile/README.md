@@ -15,6 +15,15 @@
   </p>
 </div>
 
+
+## Community
+
+Follow us on [Twitter](https://x.com/OpenGradient)
+
+Participate in our [tech talks on Discord](https://discord.gg/mUCsTvkJ48)
+
+Read our [blogs](https://opengradient.ai/blog)
+
 <!--
 **Here are some ideas to get you started:**
 
