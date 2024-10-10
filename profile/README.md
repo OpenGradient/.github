@@ -15,6 +15,12 @@
   </p>
 </div>
 
+OpenGradient’s novel heterogeneous compute architecture enables permissionless AI inference, statistical analysis, data processing, and agent execution to run end-to-end securely and scalably from a smart contract. The infrastructure is accompanied by a Web2 platform and SDK, which makes it accessible to anyone.
+OpenGradient is a platform that empowers developers, providing them with the tools to seamlessly harness open-source models and leverage compute for features like risk management, ML optimization, AI agents, Sybil resistance, DeFi mechanism design, and more.
+
+
+## OpenGradient Products​
+Coming soon!
 
 ## Community
 
