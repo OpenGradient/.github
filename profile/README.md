@@ -7,7 +7,7 @@
   <h3 align="center">OpenGradient</h3>
 
   <p align="center">
-  Upload, deploy, and execute inference any AI model from anywhere within seconds: secure, permissionless, and fully decentralized.
+  OpenGradient is the leading research lab building at the frontier of AI and blockchain computing
     <br />
     <a href="https://docs.opengradient.ai/"><strong>Documentation</strong></a>
     <br />
@@ -15,8 +15,7 @@
   </p>
 </div>
 
-OpenGradient’s novel heterogeneous compute architecture enables permissionless AI inference, statistical analysis, data processing, and agent execution to run end-to-end securely and scalably from a smart contract. The infrastructure is accompanied by a Web2 platform and SDK, which makes it accessible to anyone.
-OpenGradient is a platform that empowers developers, providing them with the tools to seamlessly harness open-source models and leverage compute for features like risk management, ML optimization, AI agents, Sybil resistance, DeFi mechanism design, and more.
+Building the future of machine cognition with portable memory, verifiable compute, and open models — empowering everyone to shape and own AI.
 
 
 ## OpenGradient Products​
