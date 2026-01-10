@@ -15,7 +15,7 @@
   </p>
 </div>
 
-Building the future of machine cognition with portable memory, verifiable compute, and open models — empowering everyone to shape and own AI.
+Building the future of machine cognition with portable memory, verifiable compute, and open models - empowering everyone to shape and own AI.
 
 
 ## OpenGradient Products​
