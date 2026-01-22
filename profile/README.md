@@ -7,7 +7,7 @@
   <h3 align="center">OpenGradient</h3>
 
   <p align="center">
-  OpenGradient is the leading research lab building at the frontier of AI and blockchain computing
+  OpenGradient is the leading research lab building at the frontier of AI and blockchain computing. We are building the world's leading decentralized network for verifiable AI computing: host models, run secure inference, and deploy agents onchain.
     <br />
     <a href="https://docs.opengradient.ai/"><strong>Documentation</strong></a>
     <br />
@@ -17,11 +17,9 @@
 
 Building the future of machine cognition with portable memory, verifiable compute, and open models - empowering everyone to shape and own AI.
 
-
-## OpenGradient Products​
-Coming soon!
-
 ## Community
+
+Visit our [Website](https://opengradient.ai)
 
 Follow us on [Twitter](https://x.com/OpenGradient)
 
