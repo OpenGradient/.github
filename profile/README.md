@@ -14,7 +14,7 @@
   </p>
 </div>
 
-Building the future of machine cognition with portable memory, verifiable compute, and open models - empowering everyone to shape and own AI.
+Building the future of verifiable AI with credibly-neutral infrastructure, verifiable computing infrastructure, and open and accessible models - empowering everyone to shape and own AI.
 
 ## Community
 
