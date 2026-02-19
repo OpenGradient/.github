@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://docs.opengradient.ai/">
-    <img src="./Symbol_Cyan.png" alt="Logo" width="80" height="80">
+    <img src="./profile image - gradient.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">OpenGradient</h3>
