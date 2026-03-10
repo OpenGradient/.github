@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://docs.opengradient.ai/">
-    <img src="https://avatars.githubusercontent.com/u/138426157?s=200&v=4" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/138426157?s=400&u=e21ef6889f893a8a8c6c4cdc141e6b90fd9baa10&v=4" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">OpenGradient</h3>
