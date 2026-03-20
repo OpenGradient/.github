@@ -28,6 +28,8 @@ Join our [Discord](https://discord.gg/axammqTRDz)
 
 Read our [blogs](https://opengradient.ai/blog)
 
+CMC ID: 1344558
+
 <!--
 **Here are some ideas to get you started:**
 
