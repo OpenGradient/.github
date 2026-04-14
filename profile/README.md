@@ -28,7 +28,11 @@ Join our [Discord](https://discord.gg/axammqTRDz)
 
 Read our [blogs](https://opengradient.ai/blog)
 
-CMC ID: 1344558
+🚀 Preparing to submit our request to CoinGecko for [OpenGradient]!
+
+🔗 GeckoTerminal URL: <TBD>
+
+Telegram: @stablewang
 
 <!--
 **Here are some ideas to get you started:**
