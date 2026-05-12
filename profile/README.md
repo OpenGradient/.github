@@ -28,12 +28,6 @@ Join our [Discord](https://discord.gg/axammqTRDz)
 
 Read our [blogs](https://opengradient.ai/blog)
 
-🚀 Preparing to submit our request to CoinGecko for [OpenGradient]!
-
-🔗 GeckoTerminal URL: <TBD>
-
-Telegram: @stablewang
-
 <!--
 **Here are some ideas to get you started:**
 
