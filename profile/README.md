@@ -20,6 +20,8 @@ Building the future of verifiable AI with credibly-neutral infrastructure, verif
 
 Visit our [Website](https://opengradient.ai)
 
+Try out [DreamFort](https://www.dreamfort.ai/home) for private, uncensored AI
+
 Read [Documentation](https://docs.opengradient.ai)
 
 Follow us on [Twitter](https://x.com/OpenGradient)
