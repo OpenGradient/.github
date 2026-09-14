@@ -26,7 +26,7 @@ Read [Documentation](https://docs.opengradient.ai)
 
 Follow us on [Twitter](https://x.com/OpenGradient)
 
-Join our [Discord](https://discord.gg/axammqTRDz)
+Join our [Discord](https://discord.gg/fhMaGhHhDJ)
 
 Read our [blogs](https://opengradient.ai/blog)
 
